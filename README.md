@@ -18,3 +18,12 @@ Urban Routes is a logistics platform designed to create optimized routes, calcul
 
 ## 📂 Project Documentation
 * Documents/: [Test Cases & Reports](https://docs.google.com/spreadsheets/d/1ae7SNBnDjNLsBDfayKEEpqfaG2Wk3ZhWKoNRsi19pfE/edit?gid=1168870724#gid=1168870724)
+
+  
+* Evidence/: 
+
+[🐛 Error report](https://drive.google.com/file/d/18to8BOEtSM8l6F4AzX8E6LuZZvRtWon4/view?usp=sharing)
+
+[🚕 End-to-End Route Validation](https://drive.google.com/file/d/11C_Kpqq1shrZvLyvwV3fPM3AgbcVeYpD/view?usp=sharing)
+
+[🖼️ UI/UX Functional Validation](https://drive.google.com/file/d/1xzElCg8mI3dKFOCwQd9D21uSzcEgZH7v/view?usp=sharing)
