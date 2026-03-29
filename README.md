@@ -1,4 +1,7 @@
 # Qa-Project-1-Software-Testing-Fundamentals
+<p align="left">
+  <img src="Urban-Routes.png" alt="Urban Routes Welcome Screenshot" width="800">
+</p>
 
 ## 📋 Project Description
 
